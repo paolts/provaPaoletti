@@ -6,5 +6,5 @@ def main() -> None:
     print("Se funziona, Daje Roma Daje")
     import datetime
     oggi = datetime.datetime.now()
-    print("oggi è", oggi)
+    print("oggi è il", oggi)
 main()
