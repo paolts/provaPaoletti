@@ -1,5 +1,5 @@
 # Leonardo Paoletti
-#modificata da seba
+# modificata da Seba
 # prima prova sanguinosa con git, github, uv e python
 
 def main() -> None:
